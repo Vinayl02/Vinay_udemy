@@ -1,0 +1,54 @@
+    Key Qualifications:
+	
+    Consolidated Embedded Systems Engineer Role
+	
+    Experience:
+    
+    1+ years (junior) to 3+ years (senior) in embedded systems development.
+    Expertise in working with embedded C and C++ programming.
+    Experience developing embedded software for various microcontrollers (8-bit, 16-bit, 32-bit) and handling peripherals (e.g., ADC, SPI, CAN).
+    Hands-on experience with RTOS (Real-Time Operating Systems), particularly platforms like Green Hills Integrity and other RTOS options.
+    Experience with device drivers, hardware diagnostics, and migration of RTOS versions.
+	
+    Technical Skills:
+    
+    Strong proficiency in embedded systems design including coding, testing, debugging, and maintenance.
+    Experience with embedded kernels, bootloaders, system software libraries, and device drivers.
+    In-depth knowledge of bus communications like CAN, SPI, Modbus, and other protocols.
+    Understanding of hardware concepts (e.g., timers, interrupts, memory management, silicon security) and hardware/software integration.
+    Ability to develop and debug software for low-level embedded systems.
+    Experience in developing safety-critical system firmware and adherence to coding standards and best practices.
+	Ability to read and interpret hardware schematics and participate in root cause analysis (e.g., FMEA, DRBFM).
+	
+    Development Tools and Methodologies:
+    
+    Hands-on experience with development environments such as Keil SDK and others IDE's. 
+    Hands-on experience with Managements tools like JIRA, Bitbucket, and Confluence for version control and project management.
+    Familiarity with automated testing, continuous integration, and software process improvement.
+	Experience with UI/HMI development for embedded displays and web applications.
+	
+    Soft Skills:
+    
+    Strong problem-solving skills, attention to detail, and logical thinking.
+    Good communication and teamwork abilities to work collaboratively across cross-functional teams.
+    Ability to participate in code reviews, design reviews, and improve development processes.
+    Capable of applying scientific reasoning to address complex engineering challenges and interpret technical documentation.
+	
+    Preferred Additional Skills:
+    
+    Knowledge of safety-critical system standards and certifications (e.g., ISO 26262, IEC 61508).
+    Experience in version control migration, safety firmware, or automated testing for embedded systems.
+    Experience in project management and familiarity with handling project lifecycles and deliverables.
+	
+    Educational Qualifications:
+    
+    Bachelor's degree in Electrical Engineering, Electronics, Computer Science, or a related field (or equivalent practical experience).
+	
+    Summary of Core Competencies:
+    This consolidated role requires a versatile Embedded Systems Engineer with strong expertise in embedded C/C++ programming, RTOS, device drivers, and 
+    hardware integration. The ideal candidate should have hands-on experience in developing and debugging embedded software across various microcontroller platforms, 
+    with exposure to safety-critical systems, hardware design, and communication protocols. Effective communication and leadership skills are essential, 
+    as well as the ability to solve complex problems, collaborate with teams, and continuously improve software development processes.
+    
+    The role can cater to both junior (1+ year) and senior (3+ years) candidates depending on experience, with responsibilities ranging from hands-on development and 
+    debugging to leading teams and designing embedded solutions from the ground up.
