@@ -6,7 +6,7 @@
     
     1+ years (junior) to 3+ years (senior) in embedded systems development.
     Expertise in working with embedded C and C++ programming.
-    Experience developing embedded software for various microcontrollers (8-bit, 16-bit, 32-bit) and handling peripherals (e.g., ADC, SPI, CAN).
+    Experience developing embedded software for various microcontrollers (8-bit, 16-bit, 32-bit) and handling peripherals (e.g., ADC, SPI, CAN,I2C, UART).
     Hands-on experience with RTOS (Real-Time Operating Systems), particularly platforms like Green Hills Integrity and other RTOS options.
     Experience with device drivers, hardware diagnostics, and migration of RTOS versions.
 	
