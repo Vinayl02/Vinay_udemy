@@ -1,0 +1,28 @@
+Instructions for importing the exported platform into a 3rd party IDE
+=====================================================================
+
+Due to Qt for MCUs depending on link time optimization you have to
+use the exact same compiler that the libraries have been built with:
+
+     armgcc version 10.3.1
+
+Import all source files from D:/Rohith/workspace/RT1170/Destination_folder/platform to your project.
+
+Compile and link settings
+-------------------------
+
+Apply these settings to your build in the IDE:
+    Link options: -mapcs -mcpu=cortex-m7 -mfloat-abi=hard -mfpu=fpv5-d16 -mthumb
+    Static libraries to be linked:
+                           ${QUL_DIR}/lib/libQulDeviceLink_mimxrt1170-evk-freertos_Windows_armgcc_MinSizeRel.a
+    Compile options for all files: -mthumb -mapcs -mcpu=cortex-m7 -mfloat-abi=hard -mfpu=fpv5-d16 -fno-common -ffunction-sections -fdata-sections -ffreestanding -fno-builtin
+    Include paths:
+                           ${FREERTOS_DIR}/include
+                           ${FREERTOS_DIR}/portable/GCC/ARM_CM4F
+                           ${QUL_DIR}/include
+                           ${QUL_DIR}/src/3rdparty/minihdlc
+                           ${QUL_DIR}/src/3rdparty/nanopb
+                           ${QUL_DIR}/src/3rdparty/qoi
+                           platform/boards/nxp/mimxrt1170-evk-freertos
+                           platform/boards/nxp/mimxrt1170-evk-freertos/display
+                           platform/common
