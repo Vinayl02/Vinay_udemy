@@ -1,0 +1,14 @@
+{
+    "resource-cache-sizes": [
+        {
+            "cacheSize": 4194304
+        }
+    ],
+    "resource-storage-sections": {
+        "QulModuleResourceData": {
+            "properties": {
+                "internal_location_independent_resources": false
+            }
+        }
+    }
+}

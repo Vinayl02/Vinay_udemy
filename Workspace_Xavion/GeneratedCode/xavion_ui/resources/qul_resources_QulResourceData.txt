@@ -1,0 +1,957 @@
+QrcAssetSectionHeader: (offset: 0x0, size: 0xc)
+    QrcImageAssetsCommonHeader offset: 0xc
+
+QrcImageAssetsCommonHeader: (offset: 0xc, size: 0x10)
+    Image count: 47
+    Texture count: 47
+    QrcImageAssetHeader list offset: 0x1c
+    QrcTextureHeader list offset: 0x30c
+
+QrcImageAssetHeader list: (offset: 0x1c, size: 0x2f0)
+
+File: assets/1024x600/bg_dark_main.png
+    Icon color: 0xffffffff
+    Filename hash: 0x360a
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 1024
+    Height: 600
+
+File: assets/1024x600/bg_light_main.png
+    Icon color: 0xffffffff
+    Filename hash: 0xf928
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 1024
+    Height: 600
+
+File: assets/1024x600/bg_splash.png
+    Icon color: 0xffffffff
+    Filename hash: 0x73f7
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 1024
+    Height: 600
+
+File: assets/1024x600/bg_dark_fault_yellow.png
+    Icon color: 0xffffffff
+    Filename hash: 0x590
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 418
+    Height: 375
+
+File: assets/1024x600/bg_dark_green.png
+    Icon color: 0xffffffff
+    Filename hash: 0x349a
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 418
+    Height: 375
+
+File: assets/1024x600/icon_eabs.png
+    Icon color: 0xffff7e00
+    Filename hash: 0xd699
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 90
+    Height: 60
+
+File: assets/1024x600/icon_lowbeam.png
+    Icon color: 0xff00ff00
+    Filename hash: 0xbef3
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 90
+    Height: 60
+
+File: assets/1024x600/icon_highbeam.png
+    Icon color: 0xff0034ff
+    Filename hash: 0xe069
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 90
+    Height: 60
+
+File: assets/1024x600/icon_indicatorleft.png
+    Icon color: 0xff00ff00
+    Filename hash: 0x1416
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 90
+    Height: 60
+
+File: assets/1024x600/icon_indicatorright.png
+    Icon color: 0xff00ff00
+    Filename hash: 0x13cd
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 90
+    Height: 60
+
+File: assets/1024x600/icon_breakfailed.png
+    Icon color: 0xffffffff
+    Filename hash: 0x26d0
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 50
+    Height: 42
+
+File: assets/1024x600/icon_coolent.png
+    Icon color: 0xffffffff
+    Filename hash: 0xc15c
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 90
+    Height: 60
+
+File: assets/1024x600/icon_seatbelt.png
+    Icon color: 0xffffffff
+    Filename hash: 0xb970
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 60
+    Height: 45
+
+File: assets/1024x600/icon_foglight.png
+    Icon color: 0xffffffff
+    Filename hash: 0x15bc
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 50
+    Height: 50
+
+File: assets/1024x600/icon_motormalfun.png
+    Icon color: 0xffffffff
+    Filename hash: 0xde3a
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 45
+    Height: 34
+
+File: assets/1024x600/icon_motorfault.png
+    Icon color: 0xffffffff
+    Filename hash: 0x80ed
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 45
+    Height: 30
+
+File: assets/1024x600/icon_handbreak.png
+    Icon color: 0xffffffff
+    Filename hash: 0x4bf0
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 50
+    Height: 39
+
+File: assets/1024x600/icon_hazard.png
+    Icon color: 0xffffffff
+    Filename hash: 0x9c28
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 45
+    Height: 40
+
+File: assets/1024x600/icon_hvil.png
+    Icon color: 0xffffffff
+    Filename hash: 0xd8d7
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 50
+    Height: 44
+
+File: assets/1024x600/icon_batteryfailure.png
+    Icon color: 0xffffffff
+    Filename hash: 0x4201
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 50
+    Height: 39
+
+File: assets/1024x600/icon_batterywarning.png
+    Icon color: 0xffffffff
+    Filename hash: 0x768b
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 60
+    Height: 32
+
+File: assets/1024x600/icon_coolenttemp.png
+    Icon color: 0xffffffff
+    Filename hash: 0xf130
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 60
+    Height: 58
+
+File: assets/1024x600/icon_gunlock.png
+    Icon color: 0xffffffff
+    Filename hash: 0xb77b
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 69
+    Height: 49
+
+File: assets/1024x600/icon_drive.png
+    Icon color: 0xffffffff
+    Filename hash: 0xb560
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 39
+    Height: 39
+
+File: assets/1024x600/icon_reverse.png
+    Icon color: 0xffffffff
+    Filename hash: 0xc34c
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 39
+    Height: 39
+
+File: assets/1024x600/icon_neutral.png
+    Icon color: 0xffffffff
+    Filename hash: 0x6039
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 39
+    Height: 39
+
+File: assets/1024x600/bg_dark_mode.png
+    Icon color: 0xffffffff
+    Filename hash: 0x7d22
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 381
+    Height: 83
+
+File: assets/1024x600/bg_light_mode.png
+    Icon color: 0xffffffff
+    Filename hash: 0xdec0
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 381
+    Height: 83
+
+File: assets/1024x600/icon_dark_sel0.png
+    Icon color: 0xffffffff
+    Filename hash: 0x15e5
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 40
+    Height: 80
+
+File: assets/1024x600/icon_dark_sel1.png
+    Icon color: 0xffffffff
+    Filename hash: 0x3e64
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 40
+    Height: 80
+
+File: assets/1024x600/icon_dark_sel2.png
+    Icon color: 0xffffffff
+    Filename hash: 0x567
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 40
+    Height: 80
+
+File: assets/1024x600/icon_light_sel0.png
+    Icon color: 0xffffffff
+    Filename hash: 0x69c7
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 40
+    Height: 80
+
+File: assets/1024x600/icon_light_sel1.png
+    Icon color: 0xffffffff
+    Filename hash: 0x61c6
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 40
+    Height: 80
+
+File: assets/1024x600/icon_light_sel2.png
+    Icon color: 0xffffffff
+    Filename hash: 0x7a45
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 40
+    Height: 80
+
+File: assets/1024x600/icon_timebar_green.svg
+    Icon color: 0xff55b948
+    Filename hash: 0x4e77
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 500
+    Height: 500
+
+File: assets/1024x600/bg_dark_speed.png
+    Icon color: 0xffffffff
+    Filename hash: 0xaf46
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 418
+    Height: 351
+
+File: assets/1024x600/bg_light_speed.png
+    Icon color: 0xffffffff
+    Filename hash: 0xf964
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 418
+    Height: 358
+
+File: assets/1024x600/icon_timebar_red.svg
+    Icon color: 0xffee2a24
+    Filename hash: 0x6bf
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 500
+    Height: 500
+
+File: assets/1024x600/bg_dark_charge_blue.png
+    Icon color: 0xffffffff
+    Filename hash: 0xf05a
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 418
+    Height: 374
+
+File: assets/1024x600/bg_light_fault_yellow.png
+    Icon color: 0xffffffff
+    Filename hash: 0xb872
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 418
+    Height: 365
+
+File: assets/1024x600/bg_light_green.png
+    Icon color: 0xffffffff
+    Filename hash: 0xcc38
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 418
+    Height: 365
+
+File: assets/1024x600/bg_light_charge_blue.png
+    Icon color: 0xffffffff
+    Filename hash: 0xa1b8
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 418
+    Height: 373
+
+File: assets/1024x600/bg_light_ring_green.png
+    Icon color: 0xffffffff
+    Filename hash: 0x9dd5
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 291
+    Height: 291
+
+File: assets/1024x600/bg_light_ring_red.png
+    Icon color: 0xffffffff
+    Filename hash: 0xcd1d
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 291
+    Height: 291
+
+File: assets/1024x600/bg_dark_ring_green.png
+    Icon color: 0xffffffff
+    Filename hash: 0x3977
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 291
+    Height: 291
+
+File: assets/1024x600/bg_dark_ring_red.png
+    Icon color: 0xffffffff
+    Filename hash: 0xb13f
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 291
+    Height: 291
+
+File: assets/1024x600/icon_fault.png
+    Icon color: 0xffffffff
+    Filename hash: 0x7906
+    Allocator flags: 0x1
+    Allocator type: 0x3
+    Texture count: 1
+    Width: 50
+    Height: 48
+
+QrcTextureHeader list: (offset: 0x30c, size: 0x5e0)
+
+Texture: 0 (assets/1024x600/bg_dark_main.png: 0)
+    Data: 0x8f0 - 0x2588ef (size: 0x258000) 
+    Width: 1024
+    Height: 600
+    Bytes per line: 4096
+    Alignment: 8
+    Pixel format: RGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 2457600
+    Padding bytes: 4
+
+Texture: 1 (assets/1024x600/bg_light_main.png: 0)
+    Data: 0x2588f0 - 0x4b08ef (size: 0x258000) 
+    Width: 1024
+    Height: 600
+    Bytes per line: 4096
+    Alignment: 8
+    Pixel format: RGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 2457600
+    Padding bytes: 0
+
+Texture: 2 (assets/1024x600/bg_splash.png: 0)
+    Data: 0x4b08f0 - 0x7088ef (size: 0x258000) 
+    Width: 1024
+    Height: 600
+    Bytes per line: 4096
+    Alignment: 8
+    Pixel format: RGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 2457600
+    Padding bytes: 0
+
+Texture: 3 (assets/1024x600/bg_dark_fault_yellow.png: 0)
+    Data: 0x7088f0 - 0x7a6c2f (size: 0x9e340) 
+    Width: 432
+    Height: 375
+    Bytes per line: 1728
+    Alignment: 8
+    Pixel format: RGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 648000
+    Padding bytes: 0
+
+Texture: 4 (assets/1024x600/bg_dark_green.png: 0)
+    Data: 0x7a6c30 - 0x844f6f (size: 0x9e340) 
+    Width: 432
+    Height: 375
+    Bytes per line: 1728
+    Alignment: 8
+    Pixel format: RGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 648000
+    Padding bytes: 0
+
+Texture: 5 (assets/1024x600/icon_eabs.png: 0)
+    Data: 0x844f70 - 0x8465ef (size: 0x1680) 
+    Width: 96
+    Height: 60
+    Bytes per line: 96
+    Alignment: 8
+    Pixel format: Alpha8
+    Compressed bytes: 0
+    Uncompressed bytes: 5760
+    Padding bytes: 0
+
+Texture: 6 (assets/1024x600/icon_lowbeam.png: 0)
+    Data: 0x8465f0 - 0x847c6f (size: 0x1680) 
+    Width: 96
+    Height: 60
+    Bytes per line: 96
+    Alignment: 8
+    Pixel format: Alpha8
+    Compressed bytes: 0
+    Uncompressed bytes: 5760
+    Padding bytes: 0
+
+Texture: 7 (assets/1024x600/icon_highbeam.png: 0)
+    Data: 0x847c70 - 0x8492ef (size: 0x1680) 
+    Width: 96
+    Height: 60
+    Bytes per line: 96
+    Alignment: 8
+    Pixel format: Alpha8
+    Compressed bytes: 0
+    Uncompressed bytes: 5760
+    Padding bytes: 0
+
+Texture: 8 (assets/1024x600/icon_indicatorleft.png: 0)
+    Data: 0x8492f0 - 0x84a96f (size: 0x1680) 
+    Width: 96
+    Height: 60
+    Bytes per line: 96
+    Alignment: 8
+    Pixel format: Alpha8
+    Compressed bytes: 0
+    Uncompressed bytes: 5760
+    Padding bytes: 0
+
+Texture: 9 (assets/1024x600/icon_indicatorright.png: 0)
+    Data: 0x84a970 - 0x84bfef (size: 0x1680) 
+    Width: 96
+    Height: 60
+    Bytes per line: 96
+    Alignment: 8
+    Pixel format: Alpha8
+    Compressed bytes: 0
+    Uncompressed bytes: 5760
+    Padding bytes: 0
+
+Texture: 10 (assets/1024x600/icon_breakfailed.png: 0)
+    Data: 0x84bff0 - 0x84e9ef (size: 0x2a00) 
+    Width: 64
+    Height: 42
+    Bytes per line: 256
+    Alignment: 8
+    Pixel format: ARGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 10752
+    Padding bytes: 0
+
+Texture: 11 (assets/1024x600/icon_coolent.png: 0)
+    Data: 0x84e9f0 - 0x8543ef (size: 0x5a00) 
+    Width: 96
+    Height: 60
+    Bytes per line: 384
+    Alignment: 8
+    Pixel format: ARGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 23040
+    Padding bytes: 0
+
+Texture: 12 (assets/1024x600/icon_seatbelt.png: 0)
+    Data: 0x8543f0 - 0x8570ef (size: 0x2d00) 
+    Width: 64
+    Height: 45
+    Bytes per line: 256
+    Alignment: 8
+    Pixel format: ARGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 11520
+    Padding bytes: 0
+
+Texture: 13 (assets/1024x600/icon_foglight.png: 0)
+    Data: 0x8570f0 - 0x85a2ef (size: 0x3200) 
+    Width: 64
+    Height: 50
+    Bytes per line: 256
+    Alignment: 8
+    Pixel format: ARGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 12800
+    Padding bytes: 0
+
+Texture: 14 (assets/1024x600/icon_motormalfun.png: 0)
+    Data: 0x85a2f0 - 0x85bc6f (size: 0x1980) 
+    Width: 48
+    Height: 34
+    Bytes per line: 192
+    Alignment: 8
+    Pixel format: ARGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 6528
+    Padding bytes: 0
+
+Texture: 15 (assets/1024x600/icon_motorfault.png: 0)
+    Data: 0x85bc70 - 0x85d2ef (size: 0x1680) 
+    Width: 48
+    Height: 30
+    Bytes per line: 192
+    Alignment: 8
+    Pixel format: ARGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 5760
+    Padding bytes: 0
+
+Texture: 16 (assets/1024x600/icon_handbreak.png: 0)
+    Data: 0x85d2f0 - 0x85f9ef (size: 0x2700) 
+    Width: 64
+    Height: 39
+    Bytes per line: 256
+    Alignment: 8
+    Pixel format: ARGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 9984
+    Padding bytes: 0
+
+Texture: 17 (assets/1024x600/icon_hazard.png: 0)
+    Data: 0x85f9f0 - 0x8617ef (size: 0x1e00) 
+    Width: 48
+    Height: 40
+    Bytes per line: 192
+    Alignment: 8
+    Pixel format: ARGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 7680
+    Padding bytes: 0
+
+Texture: 18 (assets/1024x600/icon_hvil.png: 0)
+    Data: 0x8617f0 - 0x8643ef (size: 0x2c00) 
+    Width: 64
+    Height: 44
+    Bytes per line: 256
+    Alignment: 8
+    Pixel format: ARGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 11264
+    Padding bytes: 0
+
+Texture: 19 (assets/1024x600/icon_batteryfailure.png: 0)
+    Data: 0x8643f0 - 0x866aef (size: 0x2700) 
+    Width: 64
+    Height: 39
+    Bytes per line: 256
+    Alignment: 8
+    Pixel format: ARGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 9984
+    Padding bytes: 0
+
+Texture: 20 (assets/1024x600/icon_batterywarning.png: 0)
+    Data: 0x866af0 - 0x868aef (size: 0x2000) 
+    Width: 64
+    Height: 32
+    Bytes per line: 256
+    Alignment: 8
+    Pixel format: ARGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 8192
+    Padding bytes: 0
+
+Texture: 21 (assets/1024x600/icon_coolenttemp.png: 0)
+    Data: 0x868af0 - 0x86c4ef (size: 0x3a00) 
+    Width: 64
+    Height: 58
+    Bytes per line: 256
+    Alignment: 8
+    Pixel format: ARGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 14848
+    Padding bytes: 0
+
+Texture: 22 (assets/1024x600/icon_gunlock.png: 0)
+    Data: 0x86c4f0 - 0x87022f (size: 0x3d40) 
+    Width: 80
+    Height: 49
+    Bytes per line: 320
+    Alignment: 8
+    Pixel format: ARGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 15680
+    Padding bytes: 0
+
+Texture: 23 (assets/1024x600/icon_drive.png: 0)
+    Data: 0x870230 - 0x871f6f (size: 0x1d40) 
+    Width: 48
+    Height: 39
+    Bytes per line: 192
+    Alignment: 8
+    Pixel format: RGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 7488
+    Padding bytes: 0
+
+Texture: 24 (assets/1024x600/icon_reverse.png: 0)
+    Data: 0x871f70 - 0x873caf (size: 0x1d40) 
+    Width: 48
+    Height: 39
+    Bytes per line: 192
+    Alignment: 8
+    Pixel format: RGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 7488
+    Padding bytes: 0
+
+Texture: 25 (assets/1024x600/icon_neutral.png: 0)
+    Data: 0x873cb0 - 0x8759ef (size: 0x1d40) 
+    Width: 48
+    Height: 39
+    Bytes per line: 192
+    Alignment: 8
+    Pixel format: RGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 7488
+    Padding bytes: 0
+
+Texture: 26 (assets/1024x600/bg_dark_mode.png: 0)
+    Data: 0x8759f0 - 0x894bef (size: 0x1f200) 
+    Width: 384
+    Height: 83
+    Bytes per line: 1536
+    Alignment: 8
+    Pixel format: RGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 127488
+    Padding bytes: 0
+
+Texture: 27 (assets/1024x600/bg_light_mode.png: 0)
+    Data: 0x894bf0 - 0x8b3def (size: 0x1f200) 
+    Width: 384
+    Height: 83
+    Bytes per line: 1536
+    Alignment: 8
+    Pixel format: RGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 127488
+    Padding bytes: 0
+
+Texture: 28 (assets/1024x600/icon_dark_sel0.png: 0)
+    Data: 0x8b3df0 - 0x8b79ef (size: 0x3c00) 
+    Width: 48
+    Height: 80
+    Bytes per line: 192
+    Alignment: 8
+    Pixel format: RGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 15360
+    Padding bytes: 0
+
+Texture: 29 (assets/1024x600/icon_dark_sel1.png: 0)
+    Data: 0x8b79f0 - 0x8bb5ef (size: 0x3c00) 
+    Width: 48
+    Height: 80
+    Bytes per line: 192
+    Alignment: 8
+    Pixel format: RGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 15360
+    Padding bytes: 0
+
+Texture: 30 (assets/1024x600/icon_dark_sel2.png: 0)
+    Data: 0x8bb5f0 - 0x8bf1ef (size: 0x3c00) 
+    Width: 48
+    Height: 80
+    Bytes per line: 192
+    Alignment: 8
+    Pixel format: RGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 15360
+    Padding bytes: 0
+
+Texture: 31 (assets/1024x600/icon_light_sel0.png: 0)
+    Data: 0x8bf1f0 - 0x8c2def (size: 0x3c00) 
+    Width: 48
+    Height: 80
+    Bytes per line: 192
+    Alignment: 8
+    Pixel format: RGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 15360
+    Padding bytes: 0
+
+Texture: 32 (assets/1024x600/icon_light_sel1.png: 0)
+    Data: 0x8c2df0 - 0x8c69ef (size: 0x3c00) 
+    Width: 48
+    Height: 80
+    Bytes per line: 192
+    Alignment: 8
+    Pixel format: RGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 15360
+    Padding bytes: 0
+
+Texture: 33 (assets/1024x600/icon_light_sel2.png: 0)
+    Data: 0x8c69f0 - 0x8ca5ef (size: 0x3c00) 
+    Width: 48
+    Height: 80
+    Bytes per line: 192
+    Alignment: 8
+    Pixel format: RGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 15360
+    Padding bytes: 0
+
+Texture: 34 (assets/1024x600/icon_timebar_green.svg: 0)
+    Data: 0x8ca5f0 - 0x908def (size: 0x3e800) 
+    Width: 512
+    Height: 500
+    Bytes per line: 512
+    Alignment: 8
+    Pixel format: Alpha8
+    Compressed bytes: 0
+    Uncompressed bytes: 256000
+    Padding bytes: 0
+
+Texture: 35 (assets/1024x600/bg_dark_speed.png: 0)
+    Data: 0x908df0 - 0x99cf2f (size: 0x94140) 
+    Width: 432
+    Height: 351
+    Bytes per line: 1728
+    Alignment: 8
+    Pixel format: RGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 606528
+    Padding bytes: 0
+
+Texture: 36 (assets/1024x600/bg_light_speed.png: 0)
+    Data: 0x99cf30 - 0xa33faf (size: 0x97080) 
+    Width: 432
+    Height: 358
+    Bytes per line: 1728
+    Alignment: 8
+    Pixel format: RGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 618624
+    Padding bytes: 0
+
+Texture: 37 (assets/1024x600/icon_timebar_red.svg: 0)
+    Data: 0xa33fb0 - 0xa727af (size: 0x3e800) 
+    Width: 512
+    Height: 500
+    Bytes per line: 512
+    Alignment: 8
+    Pixel format: Alpha8
+    Compressed bytes: 0
+    Uncompressed bytes: 256000
+    Padding bytes: 0
+
+Texture: 38 (assets/1024x600/bg_dark_charge_blue.png: 0)
+    Data: 0xa727b0 - 0xb1042f (size: 0x9dc80) 
+    Width: 432
+    Height: 374
+    Bytes per line: 1728
+    Alignment: 8
+    Pixel format: RGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 646272
+    Padding bytes: 0
+
+Texture: 39 (assets/1024x600/bg_light_fault_yellow.png: 0)
+    Data: 0xb10430 - 0xbaa3ef (size: 0x99fc0) 
+    Width: 432
+    Height: 365
+    Bytes per line: 1728
+    Alignment: 8
+    Pixel format: RGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 630720
+    Padding bytes: 0
+
+Texture: 40 (assets/1024x600/bg_light_green.png: 0)
+    Data: 0xbaa3f0 - 0xc443af (size: 0x99fc0) 
+    Width: 432
+    Height: 365
+    Bytes per line: 1728
+    Alignment: 8
+    Pixel format: RGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 630720
+    Padding bytes: 0
+
+Texture: 41 (assets/1024x600/bg_light_charge_blue.png: 0)
+    Data: 0xc443b0 - 0xce196f (size: 0x9d5c0) 
+    Width: 432
+    Height: 373
+    Bytes per line: 1728
+    Alignment: 8
+    Pixel format: RGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 644544
+    Padding bytes: 0
+
+Texture: 42 (assets/1024x600/bg_light_ring_green.png: 0)
+    Data: 0xce1970 - 0xd37faf (size: 0x56640) 
+    Width: 304
+    Height: 291
+    Bytes per line: 1216
+    Alignment: 8
+    Pixel format: RGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 353856
+    Padding bytes: 0
+
+Texture: 43 (assets/1024x600/bg_light_ring_red.png: 0)
+    Data: 0xd37fb0 - 0xd8e5ef (size: 0x56640) 
+    Width: 304
+    Height: 291
+    Bytes per line: 1216
+    Alignment: 8
+    Pixel format: RGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 353856
+    Padding bytes: 0
+
+Texture: 44 (assets/1024x600/bg_dark_ring_green.png: 0)
+    Data: 0xd8e5f0 - 0xde4c2f (size: 0x56640) 
+    Width: 304
+    Height: 291
+    Bytes per line: 1216
+    Alignment: 8
+    Pixel format: RGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 353856
+    Padding bytes: 0
+
+Texture: 45 (assets/1024x600/bg_dark_ring_red.png: 0)
+    Data: 0xde4c30 - 0xe3b26f (size: 0x56640) 
+    Width: 304
+    Height: 291
+    Bytes per line: 1216
+    Alignment: 8
+    Pixel format: RGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 353856
+    Padding bytes: 0
+
+Texture: 46 (assets/1024x600/icon_fault.png: 0)
+    Data: 0xe3b270 - 0xe3e26f (size: 0x3000) 
+    Width: 64
+    Height: 48
+    Bytes per line: 256
+    Alignment: 8
+    Pixel format: ARGB32
+    Compressed bytes: 0
+    Uncompressed bytes: 12288
+    Padding bytes: 0
+
+Pixel data start: 0x8ec
+Total texture data in bytes (incl. padding): 0xe3d984
+Total texture padding in bytes: 0x4
+Total asset section binary size in bytes: 0xe3e278

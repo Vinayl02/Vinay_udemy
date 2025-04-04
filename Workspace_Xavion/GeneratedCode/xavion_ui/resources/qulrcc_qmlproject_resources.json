@@ -1,0 +1,942 @@
+[
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_bg_dark_ma_0.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/bg_dark_main.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/bg_dark_main.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_bg_light_m_1.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/bg_light_main.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/bg_light_main.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_bg_splash_2.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/bg_splash.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/bg_splash.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_bg_dark_fa_3.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/bg_dark_fault_yellow.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/bg_dark_fault_yellow.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_bg_dark_gr_4.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/bg_dark_green.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/bg_dark_green.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_eabs_5.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_eabs.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_eabs.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_lowbe_6.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_lowbeam.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_lowbeam.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_highb_7.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_highbeam.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_highbeam.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_indic_8.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_indicatorleft.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_indicatorleft.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_indic_9.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_indicatorright.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_indicatorright.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_break_10.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_breakfailed.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_breakfailed.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_coole_11.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_coolent.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_coolent.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_seatb_12.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_seatbelt.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_seatbelt.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_fogli_13.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_foglight.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_foglight.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_motor_14.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_motormalfun.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_motormalfun.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_motor_15.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_motorfault.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_motorfault.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_handb_16.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_handbreak.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_handbreak.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_hazar_17.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_hazard.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_hazard.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_hvil_18.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_hvil.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_hvil.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_batte_19.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_batteryfailure.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_batteryfailure.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_batte_20.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_batterywarning.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_batterywarning.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_coole_21.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_coolenttemp.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_coolenttemp.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_gunlo_22.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_gunlock.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_gunlock.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_drive_23.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_drive.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_drive.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_rever_24.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_reverse.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_reverse.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_neutr_25.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_neutral.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_neutral.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_bg_dark_mo_26.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/bg_dark_mode.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/bg_dark_mode.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_bg_light_m_27.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/bg_light_mode.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/bg_light_mode.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_dark__28.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_dark_sel0.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_dark_sel0.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_dark__29.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_dark_sel1.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_dark_sel1.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_dark__30.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_dark_sel2.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_dark_sel2.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_light_31.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_light_sel0.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_light_sel0.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_light_32.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_light_sel1.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_light_sel1.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_light_33.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_light_sel2.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_light_sel2.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_timeb_34.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_timebar_green.svg",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_timebar_green.svg",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_bg_dark_sp_35.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/bg_dark_speed.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/bg_dark_speed.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_bg_light_s_36.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/bg_light_speed.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/bg_light_speed.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_timeb_37.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_timebar_red.svg",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_timebar_red.svg",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_bg_dark_ch_38.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/bg_dark_charge_blue.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/bg_dark_charge_blue.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_bg_light_f_39.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/bg_light_fault_yellow.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/bg_light_fault_yellow.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_bg_light_g_40.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/bg_light_green.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/bg_light_green.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_bg_light_c_41.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/bg_light_charge_blue.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/bg_light_charge_blue.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_bg_light_r_42.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/bg_light_ring_green.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/bg_light_ring_green.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_bg_light_r_43.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/bg_light_ring_red.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/bg_light_ring_red.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_bg_dark_ri_44.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/bg_dark_ring_green.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/bg_dark_ring_green.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_bg_dark_ri_45.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/bg_dark_ring_red.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/bg_dark_ring_red.png",
+        "runtime_lookup_support": true
+    },
+    {
+        "out_file": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/xavion_ui/resources/qul_resource_icon_fault_46.cpp",
+        "properties": {
+            "platform_resource_alpha_options": "Never",
+            "platform_resource_rle_premultiplied_alpha": true,
+            "private_resource_optimize_monochrome_to_alpha8": true,
+            "private_resource_padding": "PadToForcedDimensions",
+            "private_resource_texture_width_to_be_multiple_of": 16,
+            "resource_alignment": 8,
+            "resource_cache_policy": "NoCaching",
+            "resource_compression": false,
+            "resource_image_pixel_format": "Automatic",
+            "resource_optimize_for_rotation": false,
+            "resource_optimize_for_scale": false,
+            "resource_split_image_optimization": false
+        },
+        "qrc_file": "/assets/1024x600/icon_fault.png",
+        "resource_path": "C:/user/Automotive/Cluster/Codebase/Xavion/xavion_hmi/images/1024x600/icon_fault.png",
+        "runtime_lookup_support": true
+    }
+]
