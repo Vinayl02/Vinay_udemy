@@ -1,0 +1,71 @@
+# This is gives information on Gitbash command codes
+
+Jira/BitBucket : is a management tool owned by Atlassian, used for tracking, planning, software developments
+                and software implementations/Releases.
+                --> Easy to track 
+                --> easy to optimize/customize
+                --> easy to manage
+                --> easy to integrate with other tools
+
+Git : Git is a Version Control System(VCS) tool used for tracking the changes in the source code 
+        during the software development.
+        -->popular
+        --> easy to learn
+        --> easy to use
+        --> easy to manage
+
+Github : It is a cloud based platform/website is used to store the source code of the Software projects.
+Gitbash : It is a command line terminal tool used to interact with the git tool & repository.
+
+git --version       --> version of git
+git config --global user.name "VinayL"  --> to set the username for git
+git config --global user.email "vinayl@gmail.com"       --> to set the email for git
+git config --list   --> to check the list of git configurations
+git status          --> to check the status of git history
+git init            --> to initialize the git repository
+ls -la              --> to check the files in the directory
+ls -la .git         --> to check the hidden files in the directory
+git log             --> git commit logs : time, date & commit hash values can be seen
+
+
+git clone <github repo link>    --> to clone repo/files from the remote/github website repo to local system
+git add <file name> --> if single file need to be added into git repo's. 
+            --> git add will make the file as staged
+git add .   --> if multiple or all files of local repo need to be added into the git repo 
+            --> git add will make all files as stageg
+
+git commit -m "This is my new git folder repo added"
+
+
+git remote add origin <github repo link>  --> to add the remote repo link to the local repo
+git remote -v       --> to check the remote repo link
+git pull origin main    --> to pull the remote repo to local repo(Current repo pull)
+git push origin main    --> push local repository to remote repo.(github website repo) (Current repo pull)
+
+Branches :
+git branch                      --> check for git current branch
+git branch -M <New name>        --> change the same of the current branch name
+git checkout <branch name>      --> navigate to other branch
+git checkout -b <new name>      --> create the new branch 
+git checkout -d <branch name>   --> delete the branch
+
+Diff/merge branches :
+git diff        --> diff between the two branches
+git merge       --> merge two branches/files
+                -->while merging, if conflict occurs check files manually and update the merge.
+                -->after merge, use 'git add' and git commit -m "message of new change"
+
+revert/undo changes :
+git reset               --> reset all file of the branch
+git reset <file name>   --> reset particular file
+git reset HEAD~1        --> reset the branch to one commit reverse stage
+
+git reset --hard <commit hash>  --> reset the branch/file to the particular git commit version
+                                --> commit hash :  <check using 'git log' command>
+
+
+git stash       --> to save the changes in the branch
+git stash list  --> to check the list of stash
+git stash apply --> to apply the stash
+
+This is a feature branch
