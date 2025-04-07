@@ -51,4 +51,4 @@
     as well as the ability to solve complex problems, collaborate with teams, and continuously improve software development processes.
     
     The role can cater to both junior (1+ year) and senior (3+ years) candidates depending on experience, with responsibilities ranging from hands-on development and 
-    debugging to leading teams and designing embedded --------- from the ground up. !!!!!!!!!!!!!!!!!!
+    debugging to leading teams and designing embedded Solution from the ground up. 
