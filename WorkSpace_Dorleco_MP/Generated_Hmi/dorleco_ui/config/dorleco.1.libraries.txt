@@ -1,3 +1,0 @@
-Qul::MonotypeUnicode
-Qul::MonotypeUnicodeEngineShaperDisabled
-Qul::PNGDecoderNull
