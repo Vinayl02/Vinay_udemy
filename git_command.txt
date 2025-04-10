@@ -68,4 +68,8 @@ git stash       --> to save the changes in the branch
 git stash list  --> to check the list of stash
 git stash apply --> to apply the stash
 
+<<<<<<< HEAD
+This is a Main branch file
+=======
 This is a feature branch! Done....Here!!! Lol
+>>>>>>> f7fd9eb46d87c443ec035c95ea90a2cd2a6530d8
